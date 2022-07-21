@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.red{
+   
+    background-color: #352813;
+}
+.trick{
+    height: 79vh;
+    background-color: #352813;
+    position: relative;
+    top: 30px;
+}
+.bot{
+    list-style: none;
+    font-size: 28px;
+    position: relative;
+    top: 18px;
+    left: 100px;
+}
+.bot li{
+    margin-left: 60px;
+}
+.box{
+    font-family: Segoe Print;
+}
+.top{
+    position: relative;
+    top: 25px;
+}
+.look{
+    position: relative;
+    top: 25px;
+}
+.phone{
+    width: 400px;
+    position: relative;
+    left: 200px;
+    top: -148px;
+}
+.roll{
+    position: relative;
+    left: 244px;
+    top: -188.6px;
+}
+.div{
+    width: 101.8%;
+    height: 130vh;
+    border: 1px solid #594522;
+    background-color: #594522;
+    position: relative;
+    left: -12px;
+    position: relative;
+    top: 45px;
+}
+.div2{
+    width: 101.8%;
+    height: 102vh;
+    border: 1px solid #352813;
+    background-color: #352813;
+    position: relative;
+    left: -13px;
+    top: 45px;
+}
+.hurt{
+    width: 40px;
+    margin-top: -10px;
+}
